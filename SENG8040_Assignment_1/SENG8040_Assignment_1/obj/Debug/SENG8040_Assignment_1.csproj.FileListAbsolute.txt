@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\obj\Debug\SENG8040_Assignment_1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\obj\Debug\SENG8040_Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\bin\Debug\SENG8040_Assignment_1.exe.config
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\bin\Debug\SENG8040_Assignment_1.exe
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\bin\Debug\SENG8040_Assignment_1.pdb
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\obj\Debug\SENG8040_Assignment_1.csproj.CopyComplete
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\obj\Debug\SENG8040_Assignment_1.exe
+C:\Users\HP\source\repos\SENG8040_Assignment_1\SENG8040_Assignment_1\obj\Debug\SENG8040_Assignment_1.pdb
